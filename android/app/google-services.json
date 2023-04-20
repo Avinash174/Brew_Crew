@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369390044616",
+    "project_id": "brew-crew-5f27e",
+    "storage_bucket": "brew-crew-5f27e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369390044616:android:338dea35c4861bd551acfd",
+        "android_client_info": {
+          "package_name": "com.avinashmagar.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369390044616-kfq7ibd2gcbr92dv6rh1epi1tpjbs0f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-8QLCQkZ_cEhMRImVRsFDRFOxXJv-ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369390044616-kfq7ibd2gcbr92dv6rh1epi1tpjbs0f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
